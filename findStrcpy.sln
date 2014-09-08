@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findStrcpy", "findStrcpy.vcproj", "{78FBFD15-2F1C-45D7-B05D-B89D29220C73}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findStrcpy", "findStrcpy.vcxproj", "{78FBFD15-2F1C-45D7-B05D-B89D29220C73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
