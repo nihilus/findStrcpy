@@ -7,7 +7,7 @@
 int IDAP_init(void)
 {
 	if(inf.filetype != f_ELF && inf.filetype != f_PE)    {
-		error("Executable format must be PE or ELF, sorry.");
+		//error("Executable format must be PE or ELF, sorry.");
 		return PLUGIN_SKIP;
 	}
 
